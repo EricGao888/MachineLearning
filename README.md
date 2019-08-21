@@ -4,6 +4,11 @@
 
 ## Content
 - KNN
+- NBC
+- SVM
+- AdaBoost
+- Gradient Descent
+- K-Means
 - Decision Tree
 - Perceptron
 - Gradient Descent
