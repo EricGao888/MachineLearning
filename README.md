@@ -1,6 +1,6 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
 # Machine Learning Implementation
-- This is a repository of the implementation of basic Machine Learning algorithm from scratch.
+- This is a repository of the implementation of basic Machine Learning algorithm from scratch by myself.
 
 ## Content
 - KNN
