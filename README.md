@@ -181,5 +181,3 @@ def predict(modelParameters,testSet):
 
 ```
 
-
-# MachineLearning
