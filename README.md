@@ -181,3 +181,7 @@ def predict(modelParameters,testSet):
 
 ```
 
+### Efficiency
+- Use Numpy matrix operation(Parallelism) instead of for-loop to speed up computation;
+- Numpy matrix operation is much faster than Pandas DataFrame operation;
+
