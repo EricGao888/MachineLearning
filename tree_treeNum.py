@@ -48,6 +48,7 @@ def standard_error(A):
     A_se = A_sd / math.sqrt(A_len)
     return A_se
 
+# Use numpy matrix instead of pandas data framework can further speed up the computation
 def compute_gini(example_df):
 	cnt0 = example_df[example_df["decision"] == 0].shape[0]
 	cnt1 = example_df[example_df["decision"] == 1].shape[0]
